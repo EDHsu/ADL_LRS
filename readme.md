@@ -12,6 +12,7 @@ This version is stable, but only intended to support a small amount of users as 
     	postgresql-server-dev-all python-dev libxml2-dev libxslt-dev
     admin:~$ sudo easy_install pip
     admin:~$ sudo pip install virtualenv
+    admin:~$ sudo pip install gunicorn
     
 **Create ADL LRS system user**
 
